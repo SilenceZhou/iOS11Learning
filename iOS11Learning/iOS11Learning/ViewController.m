@@ -46,6 +46,8 @@
     // self.tableView.contentInsetAdjustmentBehavior = UIScrollViewContentInsetAdjustmentNever;
     
     // 5.
+    
+    NSLog(@"\n\n\n %@ \n\n\n", NSStringFromCGRect(self.view.bounds));
 }
 
 
